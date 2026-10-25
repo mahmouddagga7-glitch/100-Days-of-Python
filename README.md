@@ -7,7 +7,8 @@ My Python programming journey through **100 Days of Code: The Complete Python Pr
 This repository documents my progress, coding exercises, and Python projects as I develop my programming and problem-solving skills.
 
 ## Progress
-**21 / 100 Days Completed — 21%**
+
+**22 / 100 Days Completed — 22%**
 
 | Day | Project | Status |
 |---|---|---|
@@ -16,8 +17,9 @@ This repository documents my progress, coding exercises, and Python projects as 
 | 18 | [Hirst Painting](day-18) | Completed |
 | 19 | [Turtle Race](day-19/Turtle-Race) | Completed |
 | 20–21 | [Snake Game](Day-20-21/Snake-Game) | Completed |
+| 22 | [Pong Game](Day-22/Pong-Game) | Completed |
 
-**Next:** Day 22 — Pong Game.
+**Next:** Day 23 — Turtle Crossing Game
 
 ## Skills I'm Developing
 
