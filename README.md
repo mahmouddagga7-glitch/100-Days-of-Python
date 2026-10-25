@@ -7,10 +7,17 @@ My Python programming journey through **100 Days of Code: The Complete Python Pr
 This repository documents my progress, coding exercises, and Python projects as I develop my programming and problem-solving skills.
 
 ## Progress
+**21 / 100 Days Completed — 21%**
 
-- **Days 1–16:** Completed (code not archived)
-- **Day 17:** Quiz Project — Object-Oriented Programming
-- **Days 18–100:** Upcoming
+| Day | Project | Status |
+|---|---|---|
+| 1–16 | Python fundamentals (code not archived) | Completed |
+| 17 | [OOP Quiz Game](Day-17/Quiz-game) | Completed |
+| 18 | [Hirst Painting](day-18) | Completed |
+| 19 | [Turtle Race](day-19/Turtle-Race) | Completed |
+| 20–21 | [Snake Game](Day-20-21/Snake-Game) | Completed |
+
+**Next:** Day 22 — Pong Game.
 
 ## Skills I'm Developing
 
