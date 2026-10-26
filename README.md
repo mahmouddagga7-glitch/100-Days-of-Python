@@ -8,18 +8,19 @@ This repository documents my progress, coding exercises, and Python projects as 
 
 ## Progress
 
-**22 / 100 Days Completed — 22%**
+**23 / 100 Days Completed — 23%**
 
 | Day | Project | Status |
 |---|---|---|
-| 1–16 | Python fundamentals (code not archived) | Completed |
+| 1–16 | Python Fundamentals (code not archived) | Completed |
 | 17 | [OOP Quiz Game](Day-17/Quiz-game) | Completed |
 | 18 | [Hirst Painting](day-18) | Completed |
 | 19 | [Turtle Race](day-19/Turtle-Race) | Completed |
 | 20–21 | [Snake Game](Day-20-21/Snake-Game) | Completed |
 | 22 | [Pong Game](Day-22/Pong-Game) | Completed |
+| 23 | [Turtle Crossing](Day-23/Turtle-Crossing) | Completed |
 
-**Next:** Day 23 — Turtle Crossing Game
+**Next:** Day 24 — Files, Directories, and Paths
 
 ## Skills I'm Developing
 
